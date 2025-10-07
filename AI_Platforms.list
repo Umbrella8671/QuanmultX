@@ -75,13 +75,15 @@ IP-ASN,20473,OpenAI
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-01-08 16:02:59
 # HOST: 1
-# HOST-SUFFIX: 2
-# TOTAL: 3
+# HOST-SUFFIX: 3
+# HOST-KEYWORD: 2
+# TOTAL: 6
 HOST,servd-anthropic-website.b-cdn.net,Anthropic
 HOST-SUFFIX,anthropic.com,Anthropic
 HOST-SUFFIX,claude.ai,Anthropic
-
-
+HOST-SUFFIX,claude.com,Anthropic
+HOST-KEYWORD,claude,Anthropic
+HOST-KEYWORD,anthropic,Anthropic
 
 # NAME: Grok
 DOMAIN-SUFFIX,grok.com,Grok
