@@ -140,3 +140,5 @@ DOMAIN-SUFFIX,dify.ai,gemini
 DOMAIN-SUFFIX,x.ai,gemini
 DOMAIN-KEYWORD,openai,gemini
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com,gemini
+DOMAIN-KEYWORD,zed,gemini
+DOMAIN-SUFFIX,zed.dev,gemini
